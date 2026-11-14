@@ -2,8 +2,8 @@ import "./Home.css";
 
 export function Home() {
     return (
-        <>
-            <p>Home</p>
-        </>
+        <main className="HomePage">
+            <p>Gallery</p>
+        </main>
     );
 }
